@@ -1,0 +1,61 @@
+{
+  "category": "search-engines",
+  "created_date": "2025-09-15T22:48:58.559979",
+  "default_ports": [
+    80,
+    443,
+    9200
+  ],
+  "dependencies": [],
+  "description": "opensearch is a free and open-source search and analytics suite. OpenSearch provides open source search and analytics suite forked from Elasticsearch",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/search-engines/opensearch",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/search-engines/opensearch",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.560001",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "opensearch",
+  "repository_url": "https://github.com/howtomgr/opensearch",
+  "spec_version": "2.0",
+  "subcategory": "search-engines",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "search-engines",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "opensearch Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/search-engines/opensearch"
+}
